@@ -21,10 +21,10 @@ Styling and design elements are implemented using Shadcn.
 ## Getting Started
 
 #### Clone the repository:
-```git clone https://github.com/your-username/autopayment-service.git ```
+```git clone https://github.com/MugglePay/recurring-payments-fe.git ```
 
 #### Navigate to the project directory:
-```cd autopayment-service```
+```cd recurring-payments-fe```
 
 #### Install dependencies:
 ```npm install ```
